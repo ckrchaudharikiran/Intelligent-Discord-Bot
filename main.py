@@ -1,14 +1,4 @@
 
-# Replace with your Discord token
-# DISCORD_TOKEN = 'MTE3Mzk4ODQ3Mjc4OTQxODExMQ.GoEcDo.72IKCKXOerzcyFO6lE1SQ0tps1k4OJwfDAL-o0'
-
-# # Replace with your OpenAI API key
-# OPENAI_API_KEY = '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'
-#these are my api keys. please dont use it
-
-
-#haa correct code h no error no blockage
-
 # Import necessary libraries
 import discord  # Import Discord library
 from discord.ext import commands  # Import commands extension from Discord library
